@@ -213,19 +213,19 @@ var textStrings_DE = {
 
 var textStrings_IT = {
     // Act 1
-    "niceHat"              : "OOH CHE BEL CAPPELLO"                                              ,
-    "outtaHere"            : "s\xEC bravi, andatevene"                                      ,
-    "getARoom"             : "CHE SCHIFO, TROVATEVI UNA STANZA"                                 ,
-    "notCoolAnymore"       : "cmq i cappelli non vanno pi\xF9 di moda"                                ,
-    "tvOnTv"               : "UN TELEVISORE… IN TV!"                                      ,
-    "cricky"               : "TENERO GRILLO <3"                                                ,
-    "tooManyCrickets"      : "ok, un po’ troppi grilli"                                       ,
-    "normalPeep"           : "\xE8 solo una persona normale"                                          ,
+    "niceHat"              : "OOH CHE BEL CAPPELLO"                                     ,
+    "outtaHere"            : "s\xEC bravi, andatevene"                                  ,
+    "getARoom"             : "CHE SCHIFO, TROVATEVI UNA STANZA"                         ,
+    "notCoolAnymore"       : "cmq i cappelli non vanno pi\xF9 di moda"                  ,
+    "tvOnTv"               : "UN TELEVISORE… IN TV!"                                    ,
+    "cricky"               : "TENERO GRILLO <3"                                         ,
+    "tooManyCrickets"      : "ok, un po’ troppi grilli"                                 ,
+    "normalPeep"           : "\xE8 solo una persona normale"                            ,
     "normalPeeps"          : "\xE8 solo gente normale"                                    ,
     "wowNothing"           : "WOW, NON C’\xC8 NIENTE!"                                             ,
     
     // Act 2
-    "crazySquareAttacks"   : "QUADRATO IMPAZZITO AGGREDISCE"                                  ,
+    "crazySquareAttacks"   : "QUADRATO IMPAZZITO ATTACCA PASSANTE",
     "justMissed"           : "oooooh, l’hai mancato per poco"                                            ,
     "somethingInteresting" : "(devi beccarli mentre fanno *qualcosa* di interessante...)"                                          ,
     "whoIsScreaming"       : "(devi beccare chi gli grida contro!)"                                      ,
@@ -246,7 +246,7 @@ var textStrings_IT = {
     // Act 3
     "ellipsis"             : ". . ."                                                             ,
     "coolNoMore"           : "non hai sentito? i cappelli non vanno pi\xF9 di moda!"           ,
-    "beScared"             : "DEVI SPAVENTARTI. DEVI ARRABBIARTI."                                        ,
+    "beScared"             : "SPAVENTATEVI. ARRABBIATEVI."                                        ,
     
     // MANIFESTO
     "manifesto" : [
@@ -263,7 +263,7 @@ var textStrings_IT = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "durata del gioco: 5 minuti" ,
-    "warning"            : "attenzione: il seguente programma\ncontiene scene di snobismo,\nmaleducazione e stragi.\nAdatto a un pubblico adulto" ,
+    "warning"            : "attenzione: il seguente programma\ncontiene scene di indifferenza,\nmaleducazione e stragi.\nAdatto a un pubblico adulto" ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "INQUADRA E CLICCA" , 
@@ -272,14 +272,14 @@ var textStrings_IT = {
     "chyronNothing"      : "WOW, NON C’\xC8 *NIENTE*!" ,
     
     // (credits0001.png)
-    "createdBy"          : "creato da" , 
-    "NickyCase"          : "Nicky Case" , // name; just here in case you want to display text instead of graphic. /stefan
+    "createdBy"          : "" , 
+    "NickyCase"          : "" , // name; just here in case you want to display text instead of graphic. /stefan
     
     // (credits0002.png)
     "manyThanks"         : "grazie mille ai miei tester:" ,
     
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "e ai miei sostenitori  su Patreon:" ,
+    "patreonSupporters"  : "e ai miei sostenitori su Patreon:" ,
     
     // (credits0007.png)
     "lastButNotLeast"    : "e infine, ultimo ma non per importanza," ,
@@ -303,7 +303,7 @@ var textStrings_IT = {
     "toBeContinued"      : "(continua...)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "Diventiamo ci\xF2 che vediamo." , 
+    "WBWWB"              : "Siamo ciò che vediamo." , 
     "WSOTATOTSU"         : "Modelliamo i nostri strumenti e poi i nostri strumenti modellano noi." ,
     
     // (quote0003.png)
